@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Floral-website-project/static/css/main.37e9f046.css",
+    "main.js": "/Floral-website-project/static/js/main.45c29165.js",
+    "static/js/453.ababb8c1.chunk.js": "/Floral-website-project/static/js/453.ababb8c1.chunk.js",
+    "static/media/lily.png": "/Floral-website-project/static/media/lily.675915347158c7d9ad85.png",
+    "static/media/sunflower.png": "/Floral-website-project/static/media/sunflower.08749cef632d3b9c3fde.png",
+    "static/media/rose.png": "/Floral-website-project/static/media/rose.f21eaff2f0284dbb123d.png",
+    "static/media/hydrangea.png": "/Floral-website-project/static/media/hydrangea.67d9bf997a73c3d9d580.png",
+    "static/media/tulip.png": "/Floral-website-project/static/media/tulip.f117f5f49c12e079faa4.png",
+    "static/media/hibiscus.png": "/Floral-website-project/static/media/hibiscus.8778afc43eaffa682489.png",
+    "static/media/plumeria.jpg": "/Floral-website-project/static/media/plumeria.2a37ae12df71d490874c.jpg",
+    "static/media/daisy.png": "/Floral-website-project/static/media/daisy.269a22ebc8715bd2ed6d.png",
+    "static/media/orchid.png": "/Floral-website-project/static/media/orchid.f188b6625a8e10211bd3.png",
+    "index.html": "/Floral-website-project/index.html",
+    "main.37e9f046.css.map": "/Floral-website-project/static/css/main.37e9f046.css.map",
+    "main.45c29165.js.map": "/Floral-website-project/static/js/main.45c29165.js.map",
+    "453.ababb8c1.chunk.js.map": "/Floral-website-project/static/js/453.ababb8c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37e9f046.css",
+    "static/js/main.45c29165.js"
+  ]
+}
